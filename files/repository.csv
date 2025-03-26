@@ -1,0 +1,5 @@
+1;brand1;modelA;2000;10;true;1
+1;brand2;modelA;2010;100;false;2
+1;brand3;modelA;2020;1000;false;3
+2;brand2;modelA;2000;20;false;4;C1
+2;brand2;modelA;2000;20;false;5;C1
